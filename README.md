@@ -71,6 +71,14 @@ https://www.ayinedjimi-consultants.fr
 MIT License
 
 
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
+
 ---
 
 <div align="center">
