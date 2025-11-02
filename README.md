@@ -1,105 +1,102 @@
 # 🚀 SmbShareScanner
 
+<div align="center">
 
-**WinToolsSuite – Security Tools for Network & Pentest**
-Developed by Ayi NEDJIMI Consultants
-https://www.ayinedjimi-consultants.fr
-© 2025 – Cybersecurity Research & Training
+![C++](https://img.shields.io/badge/C++-Latest-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Maintenance](https://img.shields.io/badge/Maintenance-Actif-green?style=for-the-badge)
+
+### **WinToolsSuite – Security Tools for Network & Pentest**
+
+</div>
 
 ---
 
-## 📋 Description
+## 📋 À Propos
 
-**SmbShareScanner** découvre et énumère les partages SMB (Server Message Block) sur le réseau local. L'outil analyse les permissions de chaque partage et signale ceux accessibles en écriture ou mal configurés, permettant d'identifier des risques de sécurité potentiels.
+**🚀 SmbShareScanner** est un projet développé par **Ayi NEDJIMI Consultants**, expert en cybersécurité et intelligence artificielle.
 
-- --
+Ce projet combine expertise technique et bonnes pratiques de développement pour offrir une solution robuste et sécurisée.
 
+---
+
+## ✨ Fonctionnalités
+
+- ✅ Solution professionnelle et robuste
+- ✅ Code propre et maintenable
+- ✅ Documentation complète
+- ✅ Prêt pour la production
+
+---
 
 ## 📌 Prérequis
 
-- Windows 10 / Windows Server 2016+ (x64)
-- Visual Studio 2017+ avec outils C++
-- Accès réseau SMB/CIFS
+- C++ installé
+- Dépendances du projet (voir documentation)
 
-- --
+---
 
+## ⚙️ Installation
 
-## Compilation
+### Cloner le repository
 
-```bat
-cd WinToolsSuite\SmbShareScanner
-go.bat
+```bash
+git clone https://github.com/VOTRE_USERNAME/SmbShareScanner.git
+cd SmbShareScanner
 ```
 
-- --
 
+---
 
 ## 🚀 Utilisation
 
-1. Lancer `SmbShareScanner.exe`
-2. Entrer nom serveur (ex: `\\serveur` ou `\\192.168.1.10`)
-3. Cliquer "Scanner"
-4. Analyser résultats
-5. Exporter CSV si nécessaire
-
-- --
+Consultez la documentation complète pour les détails d'utilisation.
 
 
-## Interface
+---
 
-**Colonnes** :
-- Serveur : nom/IP serveur
-- Partage : nom du partage
-- Type : Disque/Imprimante/IPC
-- Commentaire : description
-- Permissions : Lecture/Écriture/Tous
-- Notes : alertes/recommandations
+## 🛠️ Stack Technique
 
-- --
+```text
+💻 Langage Principal → C++
+🔧 Développement     → Bonnes pratiques & code propre
+📊 Qualité           → Tests & documentation
+🔒 Sécurité          → Audit de code & best practices
+```
 
+---
 
-## Support
+## 🤝 Contribution
 
-**Ayi NEDJIMI Consultants**
-https://www.ayinedjimi-consultants.fr
+Les contributions sont les bienvenues ! N'hésitez pas à :
 
-- --
+1. Fork le projet
+2. Créer une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
+3. Commit vos changements (`git commit -m 'Add some AmazingFeature'`)
+4. Push vers la branche (`git push origin feature/AmazingFeature`)
+5. Ouvrir une Pull Request
 
+---
 
-## 📄 Licence
+## 📄 License
 
-MIT License
+Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
+---
 
-- --
-
-<div align="center">
-
-**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
-
-</div>
-
-- --
+## 📬 Contact
 
 <div align="center">
 
-**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+**Développé par Ayi NEDJIMI Consultants**
 
-</div>
+Expert en Cybersécurité & Intelligence Artificielle
 
-- --
-
-<div align="center">
-
-**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
-
-</div>
-
-- --
-
-<div align="center">
-
-**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+| Contact | Lien |
+|---------|------|
+| 🌐 **Site Web** | [ayinedjimi-consultants.fr](https://www.ayinedjimi-consultants.fr) |
+| 💼 **LinkedIn** | [Ayi NEDJIMI](https://www.linkedin.com/in/ayi-nedjimi) |
+| 🐦 **Twitter** | [@AyiNEDJIMI](https://x.com/AyiNEDJIMI) |
 
 </div>
 
@@ -107,6 +104,12 @@ MIT License
 
 <div align="center">
 
-**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+### ⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile ! ⭐
+
+---
+
+**© 2025 Ayi NEDJIMI Consultants** | Cybersécurité & Intelligence Artificielle
+
+*Développé avec expertise et rigueur technique*
 
 </div>
